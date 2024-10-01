@@ -1,11 +1,8 @@
-# decaychain
+# Decaychain API
 
-Given a nuclide, e.g. 99MO, constructs its decay chain using the ENSDF database
+Jupyter Notebook for Decay Chain API testing, with code sinppets
 
-Data are retrieved with Livechart API
+See the static HTML version here https://iaea-nds.github.io/decaychain/
 
-Current approximations:
-- Only one branch plus metastable
-- Only decays with detected radiations
+Please report any feedback to nds.contact-point@iaea.org
 
-Read the code comments for further details
